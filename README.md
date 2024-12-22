@@ -36,6 +36,7 @@ src
 -package.json
 
 ## Video Walkthrough of the project
+1. https://youtu.be/PZuzVhm-RTg?si=JyA4J_SSldh-LnFj
 
 ## Video Walkthrough of the codebase
 
