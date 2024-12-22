@@ -8,14 +8,9 @@ The Quiz Management System is a web-based application designed to facilitate the
 Frontend | Backend | Fullstack
 
 ## Deplolyed App
-Frontend: https://deployed-site.whatever
-Backend: https://deployed-site.whatever
-Database: https://deployed-site.whatever
+Frontend: [https://deployed-site.whatever](https://app.netlify.com/sites/shimmering-frangipane-15fe14/deploys)
 
 ## Directory Structure
-
-Frontend
-
 node_modules
 public
   -logo.svg
